@@ -1,5 +1,2 @@
-# arduino
-lol this is cool
-line 3
- line 4
-  line 5
+# Arduino Code
+This directory contains all my arduino project codes
